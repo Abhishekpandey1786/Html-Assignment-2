@@ -1,0 +1,27 @@
+textarea{
+       height: 150px;
+}
+table{
+    height: inherit;
+    width:100% ;
+    background-color:black;
+    color: white;
+}
+#table3{
+    height:10px;
+    width: 300px;
+    margin-left: 39%;
+}
+body{
+    background-image: url(abstract-autumn-beauty-multi-colored-leaf-vein-pattern-generated-by-ai.jpg);
+    
+}
+form{
+    color: white;
+}
+a{
+    color: white;
+}
+h2{
+    color: white;
+}
